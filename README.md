@@ -4,14 +4,6 @@ This is a JupyterLab notebook which utilizes Python and scikit-learn to analyze 
 
 ---
 
-
-import pandas as pd
-import hvplot.pandas
-from pathlib import Path
-from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler
-
 ## Technologies
 
 Please be sure you have Jupyter Lab installed:
